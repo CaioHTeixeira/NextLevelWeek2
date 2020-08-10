@@ -49,12 +49,6 @@ Essa aplicação foi realizada durante a Next **Level Week #2**, projeto da [Roc
   - Também, é **preciso** ter um gerenciador de pacotes seja o **[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**.
   - Por fim, é **essencial** ter o **[Expo](https://expo.io/)** instalado de forma global na máquina
 
-1. Faça um clone do repositório:
-
-```sh
-  $ git clone https://github.com/HigorSnt/proffy.git
-```
-
 2. Executando a Aplicação:
 
 ```sh
@@ -90,4 +84,3 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 <sup>Projeto desenvolvido com a tutoria de [Diego Fernandes](https://github.com/diego3g), da [Rocketseat](rocketseat.com.br).</sup>
-
